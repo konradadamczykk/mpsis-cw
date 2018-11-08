@@ -13,10 +13,11 @@ param P_count, integer, >= 0; /* don't know what about the index from conspect l
 /* Sets of vertexes, edges and dispositions */
 set E, default {1..E_count};
 set D, default {1..D_count};
+/* Dla kazdego zapotrzebowania sa te same sciezki */
 set P, default {1..P_count};
 
 /* Requirements */
-param delta{e in E, d in D, p in P}
+param delta{e in E, d in D, p in P}, binary, default = 0;
 param h{d in D} >= 0;
 param KSI{e in E} >= 0;
 
