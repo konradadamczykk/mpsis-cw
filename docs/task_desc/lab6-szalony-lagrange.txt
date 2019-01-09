@@ -1,0 +1,26 @@
+Rozwiazanie problemu (oczywiœcie za pomoc¹ NL):
+http://kt.agh.edu.pl/~kamisinski/teaching/mpsis/lab/L6/
+
+Lagrange'a brak w kodzie, ale to sie sprytnie wyciaga te mno¿niki lagrange'a:
+nierownoœciowe lambda (indeksowane dla wiecej ni¿ jednego ograniczenia), rownoœciowe to mi (analogicznie).
+
+W przykladzie z linku byloby tak:
+
+L(x, lambda, mi) = 2x1 + 2x2 + 3x3 - lambda(2x1 + x2 + 4x3 - 1) + mi(x1 + 2x2 - 1)
+
+Po przeksztalceniach:
+L(x, lambda, mi) = x1(2 - 2lambda + mi) + x2(2 - lambda + 2mi) + x3(3 - 4lambda) + lambda - mi
+lambda, mi >= 0
+
+Ka¿dy z powy¿szych iloczynów musi byæ >= 0, czyli mamy ograniczenia:
+(2 - 2lambda + mi) >= 0
+(2 - lambda + 2mi) >= 0
+(3 - 4lambda) >= 0
+
+Zadanie dualne, wtedy funkcja celu:
+max W(lambda, mi) (olewasz x) 
+
+W(lambda, mi) = lambda - mi
+
+i po herbacie, jest maksymalizacja (bo dualne)
+

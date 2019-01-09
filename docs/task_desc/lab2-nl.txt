@@ -1,0 +1,5 @@
+Rozwiazanie problemu:
+http://kt.agh.edu.pl/~kamisinski/teaching/mpsis/lab/L2/cfap_B_node_link.html
+
+Podobny problem (tylko LP), posilkuj sie lab3 wtedy, bo tam jest model LP.
+http://kt.agh.edu.pl/~kamisinski/teaching/mpsis/lab/L2/cfap_A_link_path.html

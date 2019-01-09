@@ -1,0 +1,3 @@
+Brak rozwiazania na Githubie.
+
+Model wyklepac na podstawie http://kt.agh.edu.pl/~kamisinski/teaching/mpsis/lab/L5/

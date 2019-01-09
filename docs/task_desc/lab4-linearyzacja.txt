@@ -1,0 +1,10 @@
+Rozwiazanie problemu (oczywiœcie za pomoc¹ NL):
+http://kt.agh.edu.pl/~kamisinski/teaching/mpsis/lab/L4/ufap_B_link_path.html
+
+Podobny problem (tylko LP), posilkuj sie lab3 wtedy, bo tam jest model LP.
+http://kt.agh.edu.pl/~kamisinski/teaching/mpsis/lab/L4/ufap_A_link_path.html
+
+Linearyzacja: ogolnie jak jest 3x wypukly (problem, funkcja i zbior) lub problem i funkcja wklesle,
+to minimalizujesz funkcje celu.
+
+Wiecej info w docsach, konkretnie W4_mpsis_podsumowanie_programowanie_dyskretne.pdf. ;)

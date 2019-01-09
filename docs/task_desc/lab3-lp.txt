@@ -1,0 +1,6 @@
+Rozwiazanie problemu:
+http://kt.agh.edu.pl/~kamisinski/teaching/mpsis/lab/L3/ufap_A_link_path.html
+
+Podobny problem (tylko NL), posilkuj sie lab2 wtedy, bo tam jest model NL.
+Capacity to tylko dodatkowe ograniczenie, jako parametr na linku, easy.
+http://kt.agh.edu.pl/~kamisinski/teaching/mpsis/lab/L3/ufap_B_node_link.html
